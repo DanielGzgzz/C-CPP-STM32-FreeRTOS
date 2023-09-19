@@ -1,0 +1,2 @@
+cmath:425:3:constexpr float std::sin(float)	1
+cpp_adc_mapping.cpp:28:5:int MapToFrequency(uint16_t, uint16_t)	1
